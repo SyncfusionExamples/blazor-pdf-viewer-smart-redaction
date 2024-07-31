@@ -10,7 +10,7 @@ namespace PdfViewerSmartRedaction
     {
         public Dictionary<string, EmbeddingF32> PageEmbeddings { get; set; }
 
-        const string endpoint = "YOUR-AZURE-OPENAI-URL;
+        const string endpoint = "YOUR-AZURE-OPENAI-URL";
         const string deploymentName = "DEPLOYMENT-NAME";
 
         string key = "";
