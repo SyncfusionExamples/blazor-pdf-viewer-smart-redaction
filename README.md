@@ -1,12 +1,12 @@
-# Smart Redaction using Syncfusion Blazor PDF Viewer
+# Smart Redaction using Syncfusion&reg; Blazor PDF Viewer
 
 This repo contains the example Blazor application which performs redaction smartly using Blazor PDF Viewer and AI.
 
-Here, the sample demonstrates how the Syncfusion Blazor PDF Viewer can intelligently redact sensitive information using AI assistance.
+Here, the sample demonstrates how the Syncfusion&reg; Blazor PDF Viewer can intelligently redact sensitive information using AI assistance.
 
 ## Before running the sample, ensure you enter the valid keys in the following files:
  
-- In `Program.cs`, add your valid Syncfusion license.
+- In `Program.cs`, add your valid Syncfusion&reg; license.
 
  ![image](https://github.com/user-attachments/assets/e01eefbb-a6fd-4fad-aeb7-c445daf8bb82)
 
